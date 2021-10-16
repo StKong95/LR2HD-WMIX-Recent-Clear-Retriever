@@ -15,7 +15,7 @@ NORMAL CLEAR, HARD CLEAR, and FULL COMBO are supported. FAIL and EASY CLEAR are 
 
 ## Instructions
 1) Place the script in the base directory of Lunatic Rave 2 HD.
-2) Run script.
+2) Run **_recent.py_**.
 3) Take screenshots of scores on WMIX HD's result screen.
 4) Information will be stored in **_recent.txt_** located in the same directory.
 
